@@ -94,5 +94,5 @@
       "depNameTemplate": "kubernetes/kubernetes"
     }
   ],
-  "ignorePaths": ["docs/**"]
+  "ignorePaths": ["docs/**", ".github/workflows/build-image.yml", ".github/workflows/build-pr-image.yml"]
 }
